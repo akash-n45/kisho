@@ -1,2 +1,6 @@
 "Hello Github" 
+<<<<<<< HEAD
 "main branch edit"
+=======
+"feature branch edit"
+>>>>>>> 01449e74a7c5631d18e356164e400b6305848718
